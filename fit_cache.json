@@ -1,0 +1,914 @@
+{
+ "001Qn00000R9VoZIAV": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000R9ZAQIA3": {
+  "fit": "weak_fit",
+  "reason": "media/content platform"
+ },
+ "001Qn00000R9ZrJIAV": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000Sr3vuIAB": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00000TmjXsIAJ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000U9XmJIAV": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00000USlnKIAT": {
+  "fit": "good_fit",
+  "reason": "fitness/wellness/medical practice"
+ },
+ "001Qn00000bPGZyIAO": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00000desMDIAY": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000deu1LIAQ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000f23vrIAA": {
+  "fit": "poor_fit",
+  "reason": "B2B software/services"
+ },
+ "001Qn00000f3O2KIAU": {
+  "fit": "weak_fit",
+  "reason": "news/media"
+ },
+ "001Qn00000f7vxmIAA": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00000m9M8zIAE": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000muB0QIAU": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00000uejYBIAY": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00000ug8l7IAA": {
+  "fit": "poor_fit",
+  "reason": "dental lab/manufacturer, not patient-facing"
+ },
+ "001Qn000013vnA0IAI": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn000013vqkxIAA": {
+  "fit": "good_fit",
+  "reason": "consumer brand ecommerce"
+ },
+ "001Qn000016LaZHIA0": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn000016krjqIAA": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn000017a0AAIAY": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn000017bdpQIAQ": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001A8c1ZIAR": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001B6z6vIAB": {
+  "fit": "weak_fit",
+  "reason": "music/media content"
+ },
+ "001Qn00001C3db1IAB": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001DhlV7IAJ": {
+  "fit": "poor_fit",
+  "reason": "insurance"
+ },
+ "001Qn00001G9mU7IAJ": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001HUxjeIAD": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001HxeIcIAJ": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001I4idwIAB": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001I5oVxIAJ": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001II8h7IAD": {
+  "fit": "good_fit",
+  "reason": "consumer events"
+ },
+ "001Qn00001JLlAIIA1": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001JfO1VIAV": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001JzVJmIAN": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001KxXSIIA3": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001L0WZbIAN": {
+  "fit": "good_fit",
+  "reason": "retail"
+ },
+ "001Qn00001LjDUMIA3": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001LuF33IAF": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001MezSjIAJ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001MwzxFIAR": {
+  "fit": "poor_fit",
+  "reason": "trade/professional association"
+ },
+ "001Qn00001NjWpIIAV": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001NxvSrIAJ": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001OG3DxIAL": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001OgPYiIAN": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001P7YR3IAN": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001PPonbIAD": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001PQV6HIAX": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001PXYX6IAP": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001PpWQLIA3": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001PyhCvIAJ": {
+  "fit": "good_fit",
+  "reason": "home services (HVAC/air)"
+ },
+ "001Qn00001QBgKdIAL": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001QhYDgIAN": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001Qi0x2IAB": {
+  "fit": "poor_fit",
+  "reason": "trade/professional association"
+ },
+ "001Qn00001QiPd6IAF": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001Qn7NhIAJ": {
+  "fit": "poor_fit",
+  "reason": "financial institution/insurance"
+ },
+ "001Qn00001QtaMlIAJ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001QuDPrIAN": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001R2QT3IAN": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001RiGttIAF": {
+  "fit": "weak_fit",
+  "reason": "arts nonprofit"
+ },
+ "001Qn00001S302xIAB": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001SD4bWIAT": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001SMh7QIAT": {
+  "fit": "poor_fit",
+  "reason": "trade/professional association"
+ },
+ "001Qn00001SqwiWIAR": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001SqydsIAB": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001Sr5vOIAR": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001T2MMbIAN": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001T6m8nIAB": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001TD8D6IAL": {
+  "fit": "poor_fit",
+  "reason": "trade/professional association"
+ },
+ "001Qn00001TFaYGIA1": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001THxDsIAL": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001THxVdIAL": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TI8KWIA1": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001TMtmMIAT": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001TN2zCIAT": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001TbzGDIAZ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001Tfm4XIAR": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TfoZpIAJ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TfpzCIAR": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TfqiXIAR": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TftMjIAJ": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001Tfu7nIAB": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001Ti8juIAB": {
+  "fit": "poor_fit",
+  "reason": "B2B waste services/utility-like"
+ },
+ "001Qn00001Tp4gSIAR": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TrlkSIAR": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001TtADfIAN": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001TtF5FIAV": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001TvmoRIAR": {
+  "fit": "good_fit",
+  "reason": "auto/dealer"
+ },
+ "001Qn00001U0tnVIAR": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001U4FgRIAV": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001U4Sh9IAF": {
+  "fit": "good_fit",
+  "reason": "consumer brand ecommerce"
+ },
+ "001Qn00001U4WxsIAF": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001U8QZqIAN": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001UCPFQIA5": {
+  "fit": "good_fit",
+  "reason": "fitness/wellness/medical practice"
+ },
+ "001Qn00001URpG3IAL": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001Ug0akIAB": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001Ui1pvIAB": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001Uj42aIAB": {
+  "fit": "poor_fit",
+  "reason": "financial institution/insurance"
+ },
+ "001Qn00001UlDWHIA3": {
+  "fit": "weak_fit",
+  "reason": "insufficient info on business type from name/site alone."
+ },
+ "001Qn00001UmAKnIAN": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001Uro08IAB": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001UrwfOIAR": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001UtJBcIAN": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001UyWL4IAN": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001Uz4D1IAJ": {
+  "fit": "good_fit",
+  "reason": "fitness/wellness/medical practice"
+ },
+ "001Qn00001UzvFuIAJ": {
+  "fit": "poor_fit",
+  "reason": "insurance/regulated financial"
+ },
+ "001Qn00001V1pNwIAJ": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001VCxTQIA1": {
+  "fit": "weak_fit",
+  "reason": "insufficient info on business type from name/site alone."
+ },
+ "001Qn00001VHGhUIAX": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001VHZk4IAH": {
+  "fit": "poor_fit",
+  "reason": "financial institution/insurance"
+ },
+ "001Qn00001VJwsOIAT": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001VLTO9IAP": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001VMCzTIAX": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001VMQ01IAH": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001VMsQnIAL": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001VNIYAIA5": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001VO7naIAD": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001VOESjIAP": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001VQRYVIA5": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001VR360IAD": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001VUX9BIAX": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001VVlI6IAL": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001VWR2mIAH": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001VXChaIAH": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001VYSwnIAH": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001VYTrQIAX": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001Vb6VcIAJ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001VhsUFIAZ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001VoqBkIAJ": {
+  "fit": "good_fit",
+  "reason": "fitness/wellness/medical practice"
+ },
+ "001Qn00001VwMTtIAN": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001VySlVIAV": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001W1E2pIAF": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001W3mfcIAB": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001W3qvVIAR": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001W9VRdIAN": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001WBcGqIAL": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001WRUK3IAP": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001WSna9IAD": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001WTxcvIAD": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001WTy4PIAT": {
+  "fit": "good_fit",
+  "reason": "salon/appointment-based consumer services (Blvd)"
+ },
+ "001Qn00001WUbKLIA1": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001WaQlpIAF": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001War4bIAB": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001WqlhaIAB": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001Ww0uTIAR": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001Wxl4uIAB": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001X8CIJIA3": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001XAQqwIAH": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001XCnveIAD": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001XIU2iIAH": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001XJSOeIAP": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001XNgj4IAD": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001XO1PJIA1": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001XPvxRIAT": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001XZku5IAD": {
+  "fit": "weak_fit",
+  "reason": "advocacy/membership org"
+ },
+ "001Qn00001XszUUIAZ": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001XxbrMIAR": {
+  "fit": "good_fit",
+  "reason": "entertainment venue/events (per website)"
+ },
+ "001Qn00001XxhFaIAJ": {
+  "fit": "good_fit",
+  "reason": "auto/dealer"
+ },
+ "001Qn00001YAiV8IAL": {
+  "fit": "weak_fit",
+  "reason": "insufficient info on business type from name/site alone."
+ },
+ "001Qn00001YBcM2IAL": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001YCjiAIAT": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YDQ41IAH": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YDTOPIA5": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YDUncIAH": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YDgtWIAT": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YDhnxIAD": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YDlOUIA1": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YE22iIAD": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YE70kIAD": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YFLZtIAP": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YFMapIAH": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YFN2GIAX": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YFN8jIAH": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YFNFCIA5": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YFNf0IAH": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YNG1oIAH": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001YOssoIAD": {
+  "fit": "weak_fit",
+  "reason": "insufficient info on business type from name/site alone."
+ },
+ "001Qn00001YTDCKIA5": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001YTcM2IAL": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YXctiIAD": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YY0CrIAL": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001YdosHIAR": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001YzYFFIA3": {
+  "fit": "good_fit",
+  "reason": "hospitality/entertainment/venue"
+ },
+ "001Qn00001Z2jKXIAZ": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001ZFpATIA1": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001ZFxHeIAL": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001ZJD3RIAX": {
+  "fit": "good_fit",
+  "reason": "fitness/wellness/medical practice"
+ },
+ "001Qn00001ZJGHJIA5": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001ZTL9TIAX": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001ZYVUaIAP": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001ZYi6vIAD": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001ZaUHWIA3": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001ZbUhHIAV": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001Zi9OBIAZ": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001ZiQJvIAN": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001ZkVyjIAF": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001ZojGrIAJ": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001Zu5tNIAR": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001ZuYK5IAN": {
+  "fit": "weak_fit",
+  "reason": "nonprofit research org"
+ },
+ "001Qn00001a4qPOIAY": {
+  "fit": "weak_fit",
+  "reason": "individual-facing financial comparison service"
+ },
+ "001Qn00001a5DMXIA2": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001aD2tTIAS": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001aF5DVIA0": {
+  "fit": "good_fit",
+  "reason": "consumer entertainment venue (ice rink)"
+ },
+ "001Qn00001aNicvIAC": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001aPmG4IAK": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001aVzRwIAK": {
+  "fit": "weak_fit",
+  "reason": "insufficient info on business type from name/site alone."
+ },
+ "001Qn00001aXgo2IAC": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001aiVscIAE": {
+  "fit": "good_fit",
+  "reason": "real estate/property/home services"
+ },
+ "001Qn00001azK6aIAE": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001b01wKIAQ": {
+  "fit": "weak_fit",
+  "reason": "insufficient info on business type from name/site alone."
+ },
+ "001Qn00001b85GqIAI": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001bAybSIAS": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001bUqWUIA0": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001bXPLJIA4": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001begHLIAY": {
+  "fit": "weak_fit",
+  "reason": "media/content/subscription business"
+ },
+ "001Qn00001bq7alIAA": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001brCamIAE": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001bzwcOIAQ": {
+  "fit": "poor_fit",
+  "reason": "government/public sector"
+ },
+ "001Qn00001c0kVtIAI": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001cBLiQIAW": {
+  "fit": "poor_fit",
+  "reason": "trade/professional association"
+ },
+ "001Qn00001cCqasIAC": {
+  "fit": "good_fit",
+  "reason": "ecommerce/retail"
+ },
+ "001Qn00001cGo4CIAS": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001cIVYXIA4": {
+  "fit": "poor_fit",
+  "reason": "manufacturer/medical device/distributor"
+ },
+ "001Qn00001cJxsZIAS": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001cSf6kIAC": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ },
+ "001Qn00001crmx0IAA": {
+  "fit": "poor_fit",
+  "reason": "B2B/professional services"
+ },
+ "001Qn00001cx5xuIAA": {
+  "fit": "weak_fit",
+  "reason": "nonprofit/religious/alumni/membership/education/media"
+ }
+}
